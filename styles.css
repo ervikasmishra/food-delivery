@@ -88,7 +88,7 @@ img {
   position: relative;
   background-color: var(--black);
   height: calc(100vh - 2rem);
-  background: url("./images/bg.jfif") center/cover no-repeat fixed;
+  background: url("bg.jfif") center/cover no-repeat fixed;
   z-index: 1000;
 }
 
